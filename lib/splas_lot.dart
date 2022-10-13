@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 import 'package:matchpic/one.dart';
+import 'package:matchpic/one1.dart';
 
 class splas_lot extends StatefulWidget {
   const splas_lot({Key? key}) : super(key: key);
